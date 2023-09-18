@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct EyeShape: View {
+    
     var body: some View {
         Capsule()
             .foregroundColor(.white)
