@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		26AB5EBB2AB8AF07003B81FC /* EyeShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AB5EBA2AB8AF07003B81FC /* EyeShape.swift */; };
 		26DCE2682AB8AD3B00BF4A77 /* EyeAnimation_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26DCE2672AB8AD3B00BF4A77 /* EyeAnimation_SwiftUIApp.swift */; };
 		26DCE26A2AB8AD3B00BF4A77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26DCE2692AB8AD3B00BF4A77 /* ContentView.swift */; };
 		26DCE26C2AB8AD3C00BF4A77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26DCE26B2AB8AD3C00BF4A77 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		26AB5EBA2AB8AF07003B81FC /* EyeShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EyeShape.swift; sourceTree = "<group>"; };
 		26DCE2642AB8AD3B00BF4A77 /* EyeAnimation-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EyeAnimation-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		26DCE2672AB8AD3B00BF4A77 /* EyeAnimation_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EyeAnimation_SwiftUIApp.swift; sourceTree = "<group>"; };
 		26DCE2692AB8AD3B00BF4A77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				26DCE2672AB8AD3B00BF4A77 /* EyeAnimation_SwiftUIApp.swift */,
 				26DCE2692AB8AD3B00BF4A77 /* ContentView.swift */,
+				26AB5EBA2AB8AF07003B81FC /* EyeShape.swift */,
 				26DCE26B2AB8AD3C00BF4A77 /* Assets.xcassets */,
 				26DCE26D2AB8AD3C00BF4A77 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				26DCE26A2AB8AD3B00BF4A77 /* ContentView.swift in Sources */,
 				26DCE2682AB8AD3B00BF4A77 /* EyeAnimation_SwiftUIApp.swift in Sources */,
+				26AB5EBB2AB8AF07003B81FC /* EyeShape.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
